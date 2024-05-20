@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil Awad</h1>
-<h3 align="center">A passionate software developer</h3>
-
+<h3 align="center">Junior software developer</h3>
+I'm a Computer Communication Engineer turned Full Stack Software Developer with a passion for creating efficient and scalable web applications.
 - 🔭 I’m currently working on [Bike Track](https://github.com/kamilawad/Bike-Track)
 
 - 📫 How to reach me **kamilawad15@gmail.com**
